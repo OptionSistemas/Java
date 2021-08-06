@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/Projetos/javadio-experts/config-server" />
+    <file type="web" url="file://$PROJECT_DIR$/Projetos/javadio-experts/gateway" />
+    <file type="web" url="file://$PROJECT_DIR$/Projetos/javadio-experts/product-catalog" />
+    <file type="web" url="file://$PROJECT_DIR$/Projetos/javadio-experts/service-discovery" />
+    <file type="web" url="file://$PROJECT_DIR$/Projetos/javadio-experts/shopping-cart" />
+  </component>
+</project>
